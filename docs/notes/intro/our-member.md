@@ -5,7 +5,7 @@ createTime: 2025/01/27 13:27:44
 permalink: /article/our-member/
 ---
 
-<People img="/notes/intro/people/salman-ijaz.webp" email="salman.ijaz@nottingham.edu.cn">
+<People img="/images/people/salman-ijaz.webp" email="salman.ijaz@nottingham.edu.cn">
 
 <template #name>
 
@@ -45,7 +45,7 @@ Salman Ijaz received the PhD Degree in Control Sciences and Control Engineering 
 </People>
 
 
-<People img="/notes/intro/people/adam-rushworth.webp" email="Adam.Rushworth@nottingham.edu.cn">
+<People img="/images/people/adam-rushworth.webp" email="Adam.Rushworth@nottingham.edu.cn">
 
 <template #name>
 
