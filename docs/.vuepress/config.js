@@ -3,7 +3,7 @@ import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
-  base: '/home-page/',
+  base: '/',
   lang: 'en-US',
   title: 'Control System Lab',
   description: 'Control System Lab @ University of Nottingham Ningbo China',
