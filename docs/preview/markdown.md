@@ -2,7 +2,7 @@
 title: Markdown
 draft: true
 createTime: 2025/01/26 12:46:23
-permalink: /article/wqucckfd/
+permalink: /article/example/
 ---
 
 ## Heading 2

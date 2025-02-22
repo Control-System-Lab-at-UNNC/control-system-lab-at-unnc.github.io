@@ -1,5 +1,4 @@
 <script setup>
-import { ref } from 'vue'
 
 const props = defineProps({
   doi: String
@@ -10,23 +9,23 @@ const props = defineProps({
 <template>
   <div>
     <div class="title">
-      <slot name="title" />
+      <slot name="title"/>
     </div>
 
     <span class="author-names">
-      <slot name="author" />
+      <slot name="author"/>
     </span>
 
     <div style="margin-top: 5px;">
-      <el-scrollbar max-height="180px" :always="true" class="abstract">
-        <slot name="abstract" />
+      <el-scrollbar :always="true" class="abstract" max-height="180px">
+        <slot name="abstract"/>
       </el-scrollbar>
-      <a :href="doi">{{doi}}</a>
+      <a :href="doi">{{ doi }}</a>
     </div>
 
 
     <div class="keywords">
-      <slot name="keywords" />
+      <slot name="keywords"/>
     </div>
 
   </div>

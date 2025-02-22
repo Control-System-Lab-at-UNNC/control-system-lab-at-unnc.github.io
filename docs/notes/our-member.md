@@ -2,8 +2,21 @@
 title: Our Member
 aside: true
 createTime: 2025/01/27 13:27:44
-permalink: /article/our-member/
+permalink: /article/out-member/
+outline: 
+ - 1 
+ - 6
 ---
+
+<Divider>
+
+<template #content>
+
+# Staffs
+
+</template>
+
+</Divider>
 
 <People img="/images/people/salman-ijaz.webp" email="salman.ijaz@nottingham.edu.cn">
 
@@ -84,6 +97,119 @@ He has developed a number of novel machines, including a new type of 3D printer 
 - Additive Manufacturing (3D Printing)
 - Laser Ablation 
 - Metal Materials
+
+</template>
+
+</People>
+
+
+
+<Divider>
+
+<template #content>
+
+# Research Students
+
+</template>
+
+</Divider>
+
+<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+
+<template #name>
+
+## Fuhua Jia
+
+</template>
+
+<template #titles>
+
+- PhD, Department of Mechanical, Materials and Manufacturing Engineering
+
+</template>
+
+<template #profile>
+
+
+</template>
+
+<template #interests>
+
+- Push someone else
+
+</template>
+
+</People>
+
+<Divider>
+
+<template #content>
+
+# FYP Students
+
+</template>
+
+</Divider>
+
+<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+
+<template #name>
+
+## Fuhua Jia
+
+</template>
+
+<template #titles>
+
+- PhD, Department of Mechanical, Materials and Manufacturing Engineering
+
+</template>
+
+<template #profile>
+
+
+</template>
+
+<template #interests>
+
+- Push someone else
+
+</template>
+
+</People>
+
+<Divider>
+
+<template #content>
+
+# Alumni
+
+</template>
+
+</Divider>
+
+<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+
+<template #name>
+
+## Fuhua Jia
+
+</template>
+
+<template #titles>
+
+- PhD, Department of Mechanical, Materials and Manufacturing Engineering
+
+</template>
+
+<template #profile>
+
+
+</template>
+
+<template #interests>
+
+- Push someone else
 
 </template>
 

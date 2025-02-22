@@ -1,80 +1,85 @@
 @font-face {
-  font-family: 'Nexus Sans Pro';
-  src: url('/fonts/NexusSansPro.woff2');
+    font-family: 'Nexus Sans Pro';
+    src: url('/fonts/NexusSansPro.woff2');
 }
 
 @font-face {
-  font-family: 'Nexus Serif Pro';
-  src: url('/fonts/NexusSerifPro.woff2');
+    font-family: 'Nexus Serif Pro';
+    src: url('/fonts/NexusSerifPro.woff2');
+}
+
+.vp-doc h2 {
+    margin-top: 0;
+    padding-top: 0;
 }
 
 a[property='item'][href='/blog/'] {
-  font-size: 0;
-  margin-right: -4px;
-  pointer-events: none;
-  cursor: default;
-  color: gray;
+    font-size: 0;
+    margin-right: -4px;
+    pointer-events: none;
+    cursor: default;
+    color: gray;
 }
 
 a[property='item'][href='/blog/']::before {
-  font-size: 14px;
-  content: 'Lab Daily'
+    font-size: 14px;
+    content: 'Lab Daily'
 }
 
 :root {
 
-  --vp-nav-height: 5rem;
-  --vp-nav-logo-height: 3rem;
+    --vp-nav-height: 4rem;
+    --vp-nav-logo-height: 3rem;
 
-  /** override element primary color */
-  --el-color-primary: #009BC1;
+    /** override element primary color */
+    --el-color-primary: #009BC1;
 
-  /** 主题颜色 */
+    /** 主题颜色 */
 
-  /*
-  --vp-c-brand-1: #5086a1;
-  --vp-c-brand-2: #6aa1b7;
-  --vp-c-brand-3: #8cccd5;
-  --vp-c-brand-soft: rgba(131, 208, 218, 0.314);
-  */
+    /*
+    --vp-c-brand-1: #5086a1;
+    --vp-c-brand-2: #6aa1b7;
+    --vp-c-brand-3: #8cccd5;
+    --vp-c-brand-soft: rgba(131, 208, 218, 0.314);
+    */
 
-  /** 背景颜色 */
+    /** 背景颜色 */
 
-  /*
-  --vp-c-bg: #fff;
-  --vp-c-bg-alt: #f6f6f7;
-  --vp-c-bg-elv: #fff;
-  --vp-c-bg-soft: #f6f6f7;
-  */
+    /*
+    --vp-c-bg: #fff;
+    --vp-c-bg-alt: #f6f6f7;
+    --vp-c-bg-elv: #fff;
+    --vp-c-bg-soft: #f6f6f7;
+    */
 
-  /** 文本颜色 */
+    /** 文本颜色 */
 
-  /*
-  --vp-c-text-1: rgba(60, 60, 67);
-  --vp-c-text-2: rgba(60, 60, 67, 0.78);
-  --vp-c-text-3: rgba(60, 60, 67, 0.56);
-  */
+    /*
+    --vp-c-text-1: rgba(60, 60, 67);
+    --vp-c-text-2: rgba(60, 60, 67, 0.78);
+    --vp-c-text-3: rgba(60, 60, 67, 0.56);
+    */
 }
 
 /** 深色模式 */
 [data-theme="dark"] {
-  /*
-  --vp-c-brand-1: #8cccd5;
-  --vp-c-brand-2: #6aa1b7;
-  --vp-c-brand-3: #5086a1;
-  --vp-c-brand-soft: rgba(131, 208, 218, 0.314);
-  */
+    /*
+    --vp-c-brand-1: #8cccd5;
+    --vp-c-brand-2: #6aa1b7;
+    --vp-c-brand-3: #5086a1;
+    --vp-c-brand-soft: rgba(131, 208, 218, 0.314);
+    */
 
-  /*
-  --vp-c-bg: #1b1b1f;
-  --vp-c-bg-alt: #161618;
-  --vp-c-bg-elv: #202127;
-  --vp-c-bg-soft: #202127;
-  */
+    /*
+    --vp-c-bg: #1b1b1f;
+    --vp-c-bg-alt: #161618;
+    --vp-c-bg-elv: #202127;
+    --vp-c-bg-soft: #202127;
+    */
 
-  /*
-  --vp-c-text-1: rgba(255, 255, 245, 0.86);
-  --vp-c-text-2: rgba(235, 235, 245, 0.6);
-  --vp-c-text-3: rgba(235, 235, 245, 0.38);
-  */
+    /*
+    --vp-c-text-1: rgba(255, 255, 245, 0.86);
+    --vp-c-text-2: rgba(235, 235, 245, 0.6);
+    --vp-c-text-3: rgba(235, 235, 245, 0.38);
+    */
 }
