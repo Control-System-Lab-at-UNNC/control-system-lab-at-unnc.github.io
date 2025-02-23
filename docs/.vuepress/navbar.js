@@ -10,6 +10,6 @@ export const navbar = defineNavbarConfig([
             {text: 'Projects', link: '/notes/projects.md'},
         ]
     },
-    {text: 'Opportunities', link: '/notes/opportunities.md'},
+    {text: 'Open Positions', link: '/notes/opportunities.md'},
     {text: 'News', link: '/blog/'}
 ])
