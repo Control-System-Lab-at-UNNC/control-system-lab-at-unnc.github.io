@@ -554,7 +554,7 @@ He received the B.sc. degree from Qinghai University, Xi'ning, China, in 2023.
 
 </Divider>
 
-<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+<People img="/images/people/fuhua-jia.jpg" email="">
 
 <template #name>
 
@@ -579,3 +579,30 @@ She received the B.Sc degree from the University Nottingham Ningbo China, Ningbo
 </template>
 
 </People>
+
+<People img="/images/people/fuhua-jia.jpg" email="">
+
+<template #name>
+
+## Yuhao Shi
+
+</template>
+
+<template #titles>
+
+- Research Assistant (2024.2-2024.12)
+
+</template>
+
+<template #profile>
+He received the B.Sc degree from the University Nottingham Ningbo China, Ningbo, China, in 2024.
+</template>
+
+<template #interests>
+
+- Dynamic system modelling
+
+</template>
+
+</People>
+
