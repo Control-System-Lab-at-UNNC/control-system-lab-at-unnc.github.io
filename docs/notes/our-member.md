@@ -32,6 +32,7 @@ outline:
 - Assistant Professor (Lecturer) in Control of Aerospace Systems
 - Department of Mechanical, Materials and Manufacturing Engineering
 - Power Electronics, Machines and Control Research Group
+- [https://scholar.google.com/citations?user=77HGe2UAAAAJ&hl](https://scholar.google.com/citations?user=77HGe2UAAAAJ&hl)
 
 </template>
 
@@ -73,7 +74,7 @@ Salman Ijaz received the PhD Degree in Control Sciences and Control Engineering 
 - Associate Professor in Materials and Manufacturing, PGCHE
 - Department of Mechanical, Materials and Manufacturing Engineering
 - Advanced Intelligent Manufacturing Research Group
-- [https://orcid.org/0000-0003-3803-7549](https://orcid.org/0000-0003-3803-7549)
+- [https://scholar.google.com/citations?user=XvRnzQYAAAAJ&hl](https://scholar.google.com/citations?user=XvRnzQYAAAAJ&hl)
 
 </template>
 
@@ -116,6 +117,71 @@ He has developed a number of novel machines, including a new type of 3D printer 
 
 </Divider>
 
+<People img="/images/people/fuhua-jia.jpg" email="Mengshen.Yang@nottingham.edu.cn">
+
+<template #name>
+
+## Mengshen Yang
+
+</template>
+
+<template #titles>
+
+- PhD Student, Department of Mechanical, Materials and Manufacturing Engineering
+- DTP with Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences.
+
+
+</template>
+
+<template #profile>
+
+He received the B.E. degree from Central South University, Changsha, China, in 2018, and the M.E. degree from
+the University of Manchester, UK, in 2019. He is currently working toward the Ph.D. degree in mechanical engineering with the University Nottingham Ningbo China.
+He is also with the Ningbo Institute of Materials Technology and Engineering, Chinese Academy of Sciences, Ningbo, China. 
+
+</template>
+
+<template #interests>
+
+- SLAM
+- Embodied spatial intelligence
+
+</template>
+
+</People>
+
+
+<People img="/images/people/fuhua-jia.jpg" email="Tianyi.Chen@nottingham.edu.cn">
+
+<template #name>
+
+## Tianyi Chen
+
+</template>
+
+<template #titles>
+
+- PhD Student, Department of Mechanical, Materials and Manufacturing Engineering
+
+</template>
+
+<template #profile>
+
+She received the B.Eng. degree from the University Nottingham Ningbo China, Ningbo, China, in 2021, and the Msc. degree from the University of Bristol, UK, in 2022.
+She is currently working toward the Ph.D. degree in mechanical engineering with the University Nottingham Ningbo China. 
+
+</template>
+
+<template #interests>
+
+- Rescue robot
+- Field Robot
+
+</template>
+
+</People>
+
+
 <People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
 
 <template #name>
@@ -126,18 +192,24 @@ He has developed a number of novel machines, including a new type of 3D printer 
 
 <template #titles>
 
-- PhD, Department of Mechanical, Materials and Manufacturing Engineering
+- PhD Student, Department of Mechanical, Materials and Manufacturing Engineering
+- DTP with Zhejiang University Ningbo Innovation Center.
+- [https://scholar.google.com/citations?user=Zz2ccJ4AAAAJ&hl](https://scholar.google.com/citations?user=Zz2ccJ4AAAAJ&hl)
+
 
 </template>
 
 <template #profile>
 
+He received the B.Eng. degree from Qinghai University, Xi'ning, China, in 2020, and the M.Res. degree from the University of Nottingham Ningbo China, China, in 2023.
+He is currently working toward the Ph.D. degree in mechanical engineering with the University Nottingham Ningbo China. 
 
 </template>
 
 <template #interests>
 
-- Push someone else
+- Robot state estimation
+- Robot learning.
 
 </template>
 
@@ -147,7 +219,7 @@ He has developed a number of novel machines, including a new type of 3D printer 
 
 <template #content>
 
-# FYP Students
+# Research Assitant
 
 </template>
 
