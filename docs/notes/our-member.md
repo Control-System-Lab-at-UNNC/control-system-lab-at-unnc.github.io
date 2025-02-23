@@ -28,6 +28,7 @@ outline:
 
 <template #titles>
 
+- Director of Control System Lab
 - Assistant Professor (Lecturer) in Control of Aerospace Systems
 - Department of Mechanical, Materials and Manufacturing Engineering
 - Power Electronics, Machines and Control Research Group
@@ -68,6 +69,7 @@ Salman Ijaz received the PhD Degree in Control Sciences and Control Engineering 
 
 <template #titles>
 
+- Deputy Director of Control System Lab
 - Associate Professor in Materials and Manufacturing, PGCHE
 - Department of Mechanical, Materials and Manufacturing Engineering
 - Advanced Intelligent Manufacturing Research Group
