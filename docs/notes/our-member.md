@@ -426,13 +426,43 @@ He is currently working toward the M.Res. degree in mechanical engineering with 
 
 <template #name>
 
+## Junlin Xiao
+
+</template>
+
+<template #titles>
+
+- Senior Research Asssitant
+- B.Sc student in Aerospace
+
+</template>
+
+<template #profile>
+
+
+</template>
+
+<template #interests>
+
+- Parallel Robot
+- Robot System 
+
+</template>
+
+</People>
+
+
+<People img="/images/people/hangxu.jpg" email="hang.xu@nottingham.edu.cn">
+
+<template #name>
+
 ## Hang Xu
 
 </template>
 
 <template #titles>
 
-- Intern Research Asssitant
+- Research Asssitant
 - B.Sc student in Computer Science
 
 </template>
@@ -463,7 +493,7 @@ B.Sc student in Computer Science
 
 <template #titles>
 
-- Intern Research Asssitant
+- Research Asssitant
 
 </template>
 
@@ -528,24 +558,23 @@ He received the B.sc. degree from Qinghai University, Xi'ning, China, in 2023.
 
 <template #name>
 
-## Fuhua Jia
+## Rui Li
 
 </template>
 
 <template #titles>
 
-- PhD, Department of Mechanical, Materials and Manufacturing Engineering
+- Research Assistant (2023.10-2024.6)
 
 </template>
 
 <template #profile>
-
-
+She received the B.Sc degree from the University Nottingham Ningbo China, Ningbo, China, in 2019, and was M.Sc Student in Umea University, Sweden.
 </template>
 
 <template #interests>
 
-- Push someone else
+- Dynamic system modelling
 
 </template>
 
