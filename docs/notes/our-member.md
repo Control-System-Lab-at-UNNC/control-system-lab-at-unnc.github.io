@@ -80,17 +80,12 @@ Salman Ijaz received the PhD Degree in Control Sciences and Control Engineering 
 
 <template #profile>
 
-Dr Adam Rushworth obtained his MEng in Mechanical Engineering and Mathematics in 2011 from the University of Nottingham (UK), where he subsequently completed his PhD in Mechanical Engineering in 2015.
-
-He conducted research as a Research Fellow as part of the Rolls-Royce University Technology Centre in On-platform Repair and Manufacturing Technology, focusing on topics such as robotics for in-situ inspection, manufacture and repair, mechatronics and machining.
+Dr Adam Rushworth obtained his MEng in Mechanical Engineering and Mathematics in 2011 from the University of Nottingham (UK), where he subsequently completed his PhD in Mechanical Engineering in 2015. He conducted research as a Research Fellow as part of the Rolls-Royce University Technology Centre in On-platform Repair and Manufacturing Technology, focusing on topics such as robotics for in-situ inspection, manufacture and repair, mechatronics and machining.
 </template>
 
 <template #interests>
 
-Adam has experience in the simulation, design, modelling, construction and control of robots and mechatronic systems for in-situ inspection and repair, parallel kinematic machine tools and surgical robots.
-
-
-He has developed a number of novel machines, including a new type of 3D printer for metals based on Droplet on Demand technology.
+Adam has experience in the simulation, design, modelling, construction and control of robots and mechatronic systems for in-situ inspection and repair, parallel kinematic machine tools and surgical robots. He has developed a number of novel machines, including a new type of 3D printer for metals based on Droplet on Demand technology.
 
 
 **Major research interests:**
@@ -104,6 +99,144 @@ He has developed a number of novel machines, including a new type of 3D printer 
 </template>
 
 </People>
+
+<Divider>
+
+</Divider>
+
+<People img="/images/people/cf.jpg" email="Chiew-Foong.Kwong@nottingham.edu.cn">
+
+<template #name>
+
+## Dr Chiew Foong Kwong
+
+</template>
+
+<template #titles>
+
+- Associate Professor, Department of Electrical and Electronic Engineering
+- Head of Department of Electrical and Electronic Engineering
+- Department of Mechanical, Materials and Manufacturing Engineering
+- [https://scholar.google.com/citations?user=DiX0phAAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com/citations?user=DiX0phAAAAAJ&hl=zh-CN&oi=ao)
+
+</template>
+
+<template #profile>
+
+Dr. Chiew Foong Kwong received the B.Eng. degree (Hons.) in electrical and electronic engineering from the University of Hertfordshire, Hatfield, U.K., in 2001, the M.Sc. degree in personal, mobile and satellite communications from the University of Bradford, Bradford, U.K., in 2004, and the Ph.D. degree in wireless communications from Multimedia University, Cyberjaya, Malaysia, in 2015.
+
+</template>
+
+<template #interests>
+
+- Heterogeneous networks
+- Mobility management for 5G
+- Vehicle to everything (V2X)
+
+</template>
+
+</People>
+
+
+
+<People img="/images/people/richard.webp" email="Richard-Amankwa.Adjei@nottingham.edu.cn">
+
+<template #name>
+
+## Dr Richard Amankwa Adjei
+
+</template>
+
+<template #titles>
+
+- Assistant Professor of Aerospace Aerodynamics
+- Department of Mechanical, Materials and Manufacturing Engineering
+- Fluids and Thermal Engineering Research Group
+- [https://scholar.google.com/citations?user=TshunUEAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com/citations?user=TshunUEAAAAJ&hl=zh-CN&oi=ao)
+
+</template>
+
+<template #profile>
+
+Richard A. Adjei is an Assistant Professor at the School of Aerospace, University of Nottingham Ningbo China. Prior to his appointment in 2022, he was a postdoctoral researcher at the Turbomachinery Laboratory, Tsinghua University. He received his PhD in Power Engineering and Engineering Thermophysics at Shanghai Jiaotong University in 2020. His research involves aerodynamic design and optimization with focus on the development of intelligent systems and models for aircraft and gas turbine design. He is a member of the American Society of Mechanical Engineers (ASME), American Institute of Aeronautics and Astronautics (AIAA) and associate member of the International Society of Structural and Multidisciplinary Optimization (ISSMO).
+
+</template>
+
+<template #interests>
+
+- Multidisciplinary Design Optimization for Aircraft and Gas Turbine Design
+- Aerodynamic and Aeroacoustic Design of Electric Propulsion Systems
+
+</template>
+
+</People>
+
+
+
+<People img="/images/people/donglei-sun.webp" email="Donglei.Sun@nottingham.edu.cn">
+
+<template #name>
+
+## Dr Donglei Sun
+
+</template>
+
+<template #titles>
+
+- Assistant Professor of Aerospace Aerodynamics
+- Department of Mechanical, Materials and Manufacturing Engineering
+- Advanced Intelligent Manufacturing Research Group
+- [https://scholar.google.com/citations?hl=zh-CN&user=C4EmdWMAAAAJ](https://scholar.google.com/citations?hl=zh-CN&user=C4EmdWMAAAAJ)
+
+</template>
+
+<template #profile>
+
+
+
+</template>
+
+<template #interests>
+
+- Adaptive control
+
+</template>
+
+</People>
+
+
+
+<People img="/images/people/ahmed.webp" email="Ahmed.Abdelwahed@nottingham.edu.cn">
+
+<template #name>
+
+## Dr Ahmed Nasr Abdelwahed
+
+</template>
+
+<template #titles>
+
+- Department of Electrical and Electronic Engineering
+- Power Electronics, Machines and Control Research Group
+- [https://scholar.google.com/citations?hl=zh-CN&user=9cCVF5cAAAAJ](https://scholar.google.com/citations?hl=zh-CN&user=9cCVF5cAAAAJ)
+
+</template>
+
+<template #profile>
+
+
+
+</template>
+
+<template #interests>
+
+- Adaptive control
+
+</template>
+
+</People>
+
+
 
 
 
@@ -215,6 +348,70 @@ He is currently working toward the Ph.D. degree in mechanical engineering with t
 
 </People>
 
+
+<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+
+<template #name>
+
+## Hao Wang
+
+</template>
+
+<template #titles>
+
+- Master by Research Student, Department of Mechanical, Materials and Manufacturing Engineering
+
+
+</template>
+
+<template #profile>
+
+He received the B.Eng. degree from Zhejiang Wanli University, Zhejiang, China, in 2024.
+He is currently working toward the M.Res. degree in mechanical engineering with the University Nottingham Ningbo China. 
+
+</template>
+
+<template #interests>
+
+- Underwater robot
+
+</template>
+
+</People>
+
+
+<People img="/images/people/ruoxuxiao.jpg" email="Ruoxu.Xiao@nottingham.edu.cn">
+
+<template #name>
+
+## Ruoxu Xiao
+
+</template>
+
+<template #titles>
+
+- Master by Research Student, Department of Mechanical, Materials and Manufacturing Engineering
+
+
+</template>
+
+<template #profile>
+
+He received the B.Eng. degree from Hunan Insitutde of Engineering, Xiangtan, China, in 2024.
+He is currently working toward the M.Res. degree in mechanical engineering with the University Nottingham Ningbo China. 
+
+</template>
+
+<template #interests>
+
+- Crowd navigation
+
+</template>
+
+</People>
+
+
+
 <Divider>
 
 <template #content>
@@ -225,17 +422,80 @@ He is currently working toward the Ph.D. degree in mechanical engineering with t
 
 </Divider>
 
-<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+<People img="/images/people/hangxu.jpg" email="hang.xu@nottingham.edu.cn">
 
 <template #name>
 
-## Fuhua Jia
+## Hang Xu
 
 </template>
 
 <template #titles>
 
-- PhD, Department of Mechanical, Materials and Manufacturing Engineering
+- Intern Research Asssitant
+- B.Sc student in Computer Science
+
+</template>
+
+<template #profile>
+
+B.Sc student in Computer Science
+
+</template>
+
+<template #interests>
+
+- Embeded development
+- Front-end dev
+
+</template>
+
+</People>
+
+
+<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+
+<template #name>
+
+## Xing Hou
+
+</template>
+
+<template #titles>
+
+- Intern Research Asssitant
+
+</template>
+
+<template #profile>
+
+He received the B.sc. degree from Qinghai University, Xi'ning, China, in 2023.
+
+</template>
+
+<template #interests>
+
+- Dynamic modelling
+- Walking Robot
+
+</template>
+
+</People>
+
+
+
+<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+
+<template #name>
+
+## Xiuqi Wang
+
+</template>
+
+<template #titles>
+
+- Intern Research Asssitant
+- B.Sc student in Department of Electrical and Electronic Engineering
 
 </template>
 
@@ -246,11 +506,13 @@ He is currently working toward the Ph.D. degree in mechanical engineering with t
 
 <template #interests>
 
-- Push someone else
+- Dynamic modelling
+- Walking Robot
 
 </template>
 
 </People>
+
 
 <Divider>
 
