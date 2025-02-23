@@ -564,7 +564,7 @@ He received the B.sc. degree from Qinghai University, Xi'ning, China, in 2023.
 
 <template #titles>
 
-- Research Assistant (2023.10-2024.6)
+- Research Assistant from Oct.,2023 to June.,2024
 
 </template>
 
@@ -590,7 +590,7 @@ She received the B.Sc degree from the University Nottingham Ningbo China, Ningbo
 
 <template #titles>
 
-- Research Assistant (2024.2-2024.12)
+- Research Assistant from Feb.,2023 to Nov.,2024
 
 </template>
 
