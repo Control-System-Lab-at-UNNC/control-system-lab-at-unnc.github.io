@@ -1,38 +1,51 @@
 ---
-pageLayout: home
+ageLayout: home
 config:
-  -
-    type: hero
+  - type: hero
     full: true
     background: tint-plate
     hero:
-      name: WE ARE
-      tagline: Control System Lab
-      text: The Control Systems Laboratory is dedicated to advancing control theory, system modeling, and their applications in challenging environments. Our research primarily focuses on Unmanned Aerial Vehicles (UAVs), Robotics, Additive Manufacturing, and Industrial Automation. We explore novel actuation techniques for dynamic interactions, design innovative solutions to enhance system mobility and versatility, and develop cutting-edge control and optimization algorithms for locomotion and manipulation. Drawing inspiration from applied mathematics and bionics, we aim to foster robust and autonomous control systems capable of thriving in real-world scenarios. Our work strives to create intelligent solutions for complex systems, pushing the boundaries of what’s possible in the field of control engineering.
-<div class="decomposable-paragraph">
-  <LabRhythm theme="cyberpunk">
-    <Bar frequency="core" amplitude="120%"> 
-      ▣ 驾驭复杂系统的控制韵律  
-    </Bar>
-    
-    <HarmonicSwiper>
-      <Slide v-for="(focus, i) in researchFocus" :key="i">
-        <div class="frequency-spectrum">
-          <span class="fundamental">{{focus.domain}}</span>
-          <Overtones>
-            <li v-for="(o, j) in focus.specs" 
-                :style="{order: j}">{{o}}</li>
-          </Overtones>
-        </div>
-      </Slide>
-    </HarmonicSwiper>
-  </LabRhythm>
-
-  ![Wave Generator](./control-wave.svg)
-</div>
+      name: Welcome to the Control Systems Lab
+      tagline: Innovating Control Systems for the Future
+      text: 
+        The Control Systems Laboratory is pioneering research in control systems, focusing on UAVs, robotics, additive manufacturing, and industrial automation. 
+        We are developing cutting-edge actuation techniques and optimization algorithms that drive dynamic systems to new heights.
       actions:
-        -
-          theme: alt
-          text: More About Us →
-          link: /notes/our-member.md
+        - theme: alt
+          text: Learn More → 
+          link: /notes//notes/our-member.md
+          
+  - type: section
+    title: Research Focus
+    content: |
+      Our main research areas include:
+      - **UAVs**: Autonomous systems for aerial applications.
+      - **Robotics**: Advanced control for ground-based robots.
+      - **Additive Manufacturing**: New methods for material-based control systems.
+      - **Industrial Automation**: Improving efficiency and versatility in manufacturing.
+
+      [See Our Projects](#) 
+
+  - type: section
+    title: Key Projects
+    content: |
+      Explore our cutting-edge research in the following projects:
+      - **Project 1**: [Description with link to details]
+      - **Project 2**: [Description with link to details]
+      - **Project 3**: [Description with link to details]
+      
+      [Explore All Projects](#)
+
+  - type: section
+    title: Meet Our Team
+    content: |
+      Get to know the passionate individuals driving innovation at our lab.
+      [Meet the Team](#)
+
+  - type: section
+    title: Contact Us
+    content: |
+      Reach out to us for collaboration opportunities or inquiries.
+      [Contact](#)
+
 ---
