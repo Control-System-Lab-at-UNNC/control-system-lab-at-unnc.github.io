@@ -2,7 +2,7 @@ import {defineNavbarConfig} from 'vuepress-theme-plume'
 
 export const navbar = defineNavbarConfig([
     {text: 'Home', link: '/'},
-    {text: 'About', link: '/notes/about-us.md'},
+    // {text: 'About', link: '/notes/about-us.md'},
     {text: 'Member', link: '/notes/our-member.md'},
     {
         text: 'Research', items: [
