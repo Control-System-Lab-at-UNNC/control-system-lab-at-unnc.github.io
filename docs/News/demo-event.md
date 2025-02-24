@@ -6,6 +6,6 @@ tags:
   - Tech forum
 ---
 
-### demo event
+### Control System Lab Webpage is Online!
 
-This page should introduce an event or activity held in/by the lab/team.
+We start recording our website from June 2024.

@@ -1,5 +1,5 @@
 ---
-ageLayout: home
+pageLayout: home
 config:
   - type: hero
     full: true
@@ -14,7 +14,7 @@ config:
         - theme: alt
           text: Learn More → 
           link: /notes//notes/our-member.md
-          
+
   - type: section
     title: Research Focus
     content: |
