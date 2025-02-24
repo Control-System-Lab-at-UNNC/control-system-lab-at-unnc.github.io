@@ -5,7 +5,13 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: Welcome to the Control Systems Lab
+      name:  
+        <div class="hero-text">
+          Welcome to
+        </div>
+        <div class="hero-text">
+          Control Systems Lab
+        </div>
       tagline: Innovating Control Systems for the Future
       text: 
         The Control Systems Laboratory is pioneering research in control systems, focusing on UAVs, robotics, additive manufacturing, and industrial automation. 
@@ -13,7 +19,7 @@ config:
       actions:
         - theme: alt
           text: Learn More → 
-          link: /notes//notes/our-member.md
+          link: /notes/our-member.md
 
   - type: section
     title: Research Focus
