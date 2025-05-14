@@ -250,7 +250,7 @@ Richard A. Adjei is an Assistant Professor at the School of Aerospace, Universit
 
 </Divider>
 
-<People img="/images/people/fuhua-jia.jpg" email="Mengshen.Yang@nottingham.edu.cn">
+<People img="/images/people/yangmengshen.png" email="Mengshen.Yang@nottingham.edu.cn">
 
 <template #name>
 
@@ -284,7 +284,7 @@ He is also with the Ningbo Institute of Materials Technology and Engineering, Ch
 </People>
 
 
-<People img="/images/people/fuhua-jia.jpg" email="Tianyi.Chen@nottingham.edu.cn">
+<People img="/images/people/chentianyi.png" email="Tianyi.Chen@nottingham.edu.cn">
 
 <template #name>
 
@@ -315,7 +315,7 @@ She is currently working toward the Ph.D. degree in mechanical engineering with 
 </People>
 
 
-<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+<People img="/images/people/jiafuhua.png" email="Fuhua.JIA@nottingham.edu.cn">
 
 <template #name>
 
@@ -349,7 +349,7 @@ He is currently working toward the Ph.D. degree in mechanical engineering with t
 </People>
 
 
-<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+<People img="/images/people/wanghao.png" email="Fuhua.JIA@nottingham.edu.cn">
 
 <template #name>
 
@@ -483,7 +483,7 @@ B.Sc student in Computer Science
 </People>
 
 
-<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+<People img="/images/people/xinghou.png" email="Fuhua.JIA@nottingham.edu.cn">
 
 <template #name>
 
