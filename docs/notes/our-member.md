@@ -349,7 +349,76 @@ He is currently working toward the Ph.D. degree in mechanical engineering with t
 </People>
 
 
-<People img="/images/people/wanghao.png" email="Fuhua.JIA@nottingham.edu.cn">
+</People>
+
+
+<People img="/images/people/junlin-xiao.jpg" email="junlin.xiao@nottingham.edu.cn">
+
+<template #name>
+
+## Junlin Xiao
+
+</template>
+
+<template #titles>
+
+- PhD Student, Department of Mechanical, Materials and Manufacturing Engineering
+
+
+</template>
+
+<template #profile>
+
+He received the B.Eng. degree from the University of Nottingham Ningbo China, China, in 2025.
+He is currently working toward the Ph.D. degree in aerospace engineering with the University Nottingham Ningbo China. 
+
+</template>
+
+<template #interests>
+
+- Parallel Robot
+- Aerial Manipulation.
+
+</template>
+
+</People>
+
+
+
+<People img="/images/people/liming-li.jpg" email="Liming.Li@nottingham.edu.cn">
+
+<template #name>
+
+## Liming Li
+
+</template>
+
+<template #titles>
+
+- PhD Student, Department of Mechanical, Materials and Manufacturing Engineering
+- DTP with Shenzhen University of Advanced Technology
+
+</template>
+
+<template #profile>
+
+He received the B.Eng. degree from Nanjing University of Aeronautics and Astronautics in 2020, and the M.Res. degree from the University of Chinese Academy of Sciences in 2023. From 2023 to 2025, he worked as a primary researcher with intelligent signal processing in iFlytek Research. He is currently working toward the Ph.D. degree in mechanical engineering with the University Nottingham Ningbo China.
+
+</template>
+
+<template #interests>
+
+- Underwater Acoustics
+- Underwater Remote Sensing
+- Intelligent Signal Processing
+
+</template>
+
+</People>
+
+
+
+<People img="/images/people/wanghao.png" email="hao.wang@nottingham.edu.cn">
 
 <template #name>
 
@@ -380,7 +449,7 @@ He is currently working toward the M.Res. degree in mechanical engineering with 
 </People>
 
 
-<People img="/images/people/ruoxuxiao.jpg" email="Ruoxu.Xiao@nottingham.edu.cn">
+<People img="/images/people/ruoxuxiao.jpg" email="ruoxu.Xiao@nottingham.edu.cn">
 
 <template #name>
 
@@ -426,36 +495,6 @@ He is currently working toward the M.Res. degree in mechanical engineering with 
 
 <template #name>
 
-## Junlin Xiao
-
-</template>
-
-<template #titles>
-
-- Senior Research Asssitant
-- B.Sc student in Aerospace
-
-</template>
-
-<template #profile>
-
-
-</template>
-
-<template #interests>
-
-- Parallel Robot
-- Robot System 
-
-</template>
-
-</People>
-
-
-<People img="/images/people/hangxu.jpg" email="hang.xu@nottingham.edu.cn">
-
-<template #name>
-
 ## Hang Xu
 
 </template>
@@ -483,7 +522,7 @@ B.Sc student in Computer Science
 </People>
 
 
-<People img="/images/people/xinghou.png" email="Fuhua.JIA@nottingham.edu.cn">
+<People img="/images/people/xinghou.png" email="xing.hou@nottingham.edu.cn">
 
 <template #name>
 
@@ -514,7 +553,7 @@ He received the B.sc. degree from Qinghai University, Xi'ning, China, in 2023.
 
 
 
-<People img="/images/people/fuhua-jia.jpg" email="Fuhua.JIA@nottingham.edu.cn">
+<People img="/images/people/fuhua-jia.jpg" email="xiuqi.wang@nottingham.edu.cn">
 
 <template #name>
 
