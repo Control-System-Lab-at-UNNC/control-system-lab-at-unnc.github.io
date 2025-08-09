@@ -349,8 +349,6 @@ He is currently working toward the Ph.D. degree in mechanical engineering with t
 </People>
 
 
-</People>
-
 
 <People img="/images/people/junlin-xiao.jpg" email="junlin.xiao@nottingham.edu.cn">
 
